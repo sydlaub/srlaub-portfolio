@@ -66,4 +66,16 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+
+    img {
+      width: 500px;
+      height: 600px;
+    }
+
+    .profile-pic {
+        display: inline-block;
+          width: 150px;
+          height: 150px;
+          border-radius: 50%;
+    }
 }
